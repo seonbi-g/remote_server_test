@@ -1,1 +1,8 @@
 *.[oa]
+
+
+# Excutables
+*.exe
+*.out
+*.app
+
